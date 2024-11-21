@@ -31,7 +31,7 @@ const defaultMenu = {
   before: `
 *─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-“ Hola *%name* soy *Koruda*, %greeting ”
+“ Hola *%name* soy *Ada Wong*, %greeting ”
 
 ╭────═[ *I N F O  -  B O T* ]═─────⋆
 │╭───────────────···
