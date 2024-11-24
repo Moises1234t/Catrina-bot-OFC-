@@ -533,7 +533,7 @@ originalConsoleMethod.apply(console, arguments)
 
 async function isValidPhoneNumber(number) {
 try {
-number = number.replace(/\s+/g, '')
+number = number.replace(/\s+/g, '');
 if (number.startsWith('+521')) {
 number = number.replace('+521', '+52'); 
 } else if (number.startsWith('+52') && number[4] === '1') {
