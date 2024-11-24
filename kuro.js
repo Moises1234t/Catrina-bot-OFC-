@@ -103,8 +103,8 @@ global.chatgpt.chain = lodash.chain(global.chatgpt.data);
 loadChatgptDB();
 
 global.creds = 'creds.json'
-global.authFile = 'KorudaSession'
-global.authFileJB  = 'KorudaJadiBot'
+global.authFile = 'WongSession'
+global.authFileJB  = 'WongJadiBot'
 /*global.rutaBot = join(__dirname, authFile)
 global.rutaJadiBot = join(__dirname, authFileJB)
 
@@ -176,7 +176,7 @@ const connectionOptions = {
 logger: pino({ level: 'silent' }),
 printQRInTerminal: opcion == '1' ? true : methodCodeQR ? true : false,
 mobile: MethodMobile, 
-browser: opcion == '1' ? ['Koruda', 'Edge', '20.0.04'] : methodCodeQR ? ['Koruda', 'Edge', '20.0.04'] : ["Ubuntu", "Chrome", "20.0.04"],
+browser: opcion == '1' ? ['Wong', 'Edge', '20.0.04'] : methodCodeQR ? ['Wong', 'Edge', '20.0.04'] : ["Ubuntu", "Chrome", "20.0.04"],
 auth: {
 creds: state.creds,
 keys: makeCacheableSignalKeyStore(state.keys, Pino({ level: "fatal" }).child({ level: "fatal" })),
@@ -280,7 +280,7 @@ process.on('uncaughtException', console.error);
 async function connectSubBots() {
 const subBotDirectory = './KorudaJadiBot';
 if (!existsSync(subBotDirectory)) {
-console.log('🚩 koruda no tiene Sub-Bots vinculados.');
+console.log('🚩 Wong no tiene Sub-Bots vinculados.');
 return;
 }
 
@@ -303,7 +303,7 @@ console.log(chalk.bold.greenBright(`🍟 Todos los Sub-Bots se conectaron con é
 (async () => {
 global.conns = [];
 
-const mainBotAuthFile = 'KorudaSession';
+const mainBotAuthFile = 'WongSession';
 try {
 const mainBot = await connectionUpdate(mainBotAuthFile);
 global.conns.push(mainBot);
@@ -457,14 +457,14 @@ unlinkSync(`./${authFileJB}/${directorio}/${fileInDir}`)
 }})
 }})
 if (SBprekey.length === 0) {
-console.log(chalk.bold.green(`\n╭» Koruda\n│→ NADA POR ELIMINAR \n╰― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― 🗑️♻️`))
+console.log(chalk.bold.green(`\n╭» Wong\n│→ NADA POR ELIMINAR \n╰― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― 🗑️♻️`))
 } else {
-console.log(chalk.bold.cyanBright(`\n╭»  Koruda \n│→ ARCHIVOS NO ESENCIALES ELIMINADOS\n╰― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― 🗑️♻️`))
+console.log(chalk.bold.cyanBright(`\n╭»  Wong \n│→ ARCHIVOS NO ESENCIALES ELIMINADOS\n╰― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― 🗑️♻️`))
 }} catch (err) {
-console.log(chalk.bold.red(`\n╭» 🚫 Koruda \n│→ OCURRIÓ UN ERROR\n╰― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― 🗑️♻️\n` + err))
+console.log(chalk.bold.red(`\n╭» 🚫 Wong \n│→ OCURRIÓ UN ERROR\n╰― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― 🗑️♻️\n` + err))
 }}
 function purgeOldFiles() {
-const directories = ['./KorudaSession/', './KorudaJadiBot/']
+const directories = ['./WongSession/', './WongJadiBot/']
 directories.forEach(dir => {
 readdirSync(dir, (err, files) => {
 if (err) throw err
