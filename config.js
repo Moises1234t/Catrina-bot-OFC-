@@ -23,12 +23,12 @@ global.prems = []
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.packname = ``
-global.author = '{\n "bot": {\n   "name": "Koruda",\n     "author": "ㅤㅤㅤㅤㅤ…⁠ᘛDaniel",\n   "status_bot": "active"\n }\n}'
+global.author = '{\n "bot": {\n   "name": "Wong",\n     "author": "ㅤㅤㅤㅤㅤHaru⁠✯",\n   "status_bot": "active"\n }\n}'
 global.wait = '🐢 *Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ, sᴏʏ ʟᴇɴᴛo...*'
-global.botname = '♪  ᴛᴇᴀᴍ ᴋᴏʀᴜᴅᴀ ᴏꜰᴄ ♩'
-global.textbot = `Koruda-bot`
+global.botname = ' Wong '
+global.textbot = `Ada wong`
 global.listo = '*Aqui tiene*'
-global.namechannel = '【 ♪  ᴛᴇᴀᴍ ᴋᴏʀᴜᴅᴀ ᴏꜰᴄ ♩ 】'
+global.namechannel = ' Ada wong MD'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
