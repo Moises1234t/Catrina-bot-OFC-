@@ -22,6 +22,6 @@ handler.help = ['toimg']
 handler.tags = ['tools']
 handler.command = ['toimg', 'jpg', 'jpge', 'png']
 
-handler.zenis = 2
+handler.pesetas = 2
 
 export default handler
