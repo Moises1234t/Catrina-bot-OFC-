@@ -1,5 +1,5 @@
 let handler = async (m, { conn, usedPrefix, isOwner }) => {
-conn.sendContact(m.chat, [['5493813355709', 'abby'], ['51913776697', 'Haru']],m)
+conn.sendContact(m.chat, [['5493813355709', 'abby'], ['51913776697', 'Haru']],fkontak)
 }
 handler.help = ['owner']
 handler.tags = ['main']
