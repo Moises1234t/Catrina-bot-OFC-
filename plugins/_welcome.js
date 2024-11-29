@@ -19,6 +19,7 @@ await conn.sendAi(m.chat, botname, textbot, bye, img, img, canal, estilo)
   }
   
   if (chat.bienvenida && m.messageStubType == 32) {
-    let kick = `┌─★ *${botname}* \n│「 BYE 👋 」\n└┬★ 「 @${m.messageStubParameters[0].split`@`[0]} 」\n   │✑  Se fue\n   │✑ se fue un negr-└───────────────┈ ⳹`
+    let kick = `┌─★ *${botname}* \n│「 BYE 👋 」\n└┬★ 「 @${m.messageStubParameters[0].split`@`[0]} 」\n   │✑  Se fue\n   │✑ se fue un negr-
+    └───────────────┈ ⳹`
 await conn.sendAi(m.chat, botname, textbot, kick, img, img, canal, estilo)
 }}
