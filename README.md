@@ -89,7 +89,7 @@ npm start
 
 - Si quieres probar el Bot antes de instalar
 
-* <a href="https://chat.whatsapp.com/HDgzsMQOIwD2KqTCP7swwA?mode=ems_copy_c"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://chat.whatsapp.com/GFdGkxF64or734bnnj8tTi?mode=ems_copy_c"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ---------
 
