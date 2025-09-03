@@ -95,7 +95,7 @@ npm start
 
 ## Repo Stats 🔭
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Crissdavi&repo=Catrina_bot&theme=chartreuse-dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Crissdavi&repo=kuroda_haru&theme=chartreuse-dark)
 
 ---------
 
