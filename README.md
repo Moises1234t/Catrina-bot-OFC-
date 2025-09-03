@@ -78,7 +78,7 @@ npm start
 
 ## <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Contacto" width="42" height="42"> Contacto
 
-- Si el Bot tiene algún contactame 
+- Si el Bot tiene algún problema contactame 
 
 * <a href="https://wa.me/593990089935"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
@@ -87,7 +87,7 @@ npm start
 ## <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=20131231222500&path-prefix=es" alt="Grupo" width="45" height="43"> Grupo de WhatsApp
 
 
-- Si quieres probar la Bot antes de instalar
+- Si quieres probar el Bot antes de instalar
 
 * <a href="https://chat.whatsapp.com/HDgzsMQOIwD2KqTCP7swwA?mode=ems_copy_c"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
@@ -108,7 +108,7 @@ npm start
 <div align="center">
   <h1 align="center">Editor y Propietario de la Bot</h1>
 
-<a href="https://github.com/Crissdavi"><img src="https://i.ibb.co/MDHkhRZ/file.jpg" width="300" height="300" alt="ᘛCriss"/></a>
+<a href="https://github.com/moises1234"><img src="https://i.ibb.co/MDHkhRZ/file.jpg" width="300" height="300" alt="ᘛCriss"/></a>
 
-` koruda - OFC / TEAM KORUDA OFC _ …⁠ᘛCriss
+` Catrina - OFC / TEAM catrinA OFC _ …⁠Moises
 `
