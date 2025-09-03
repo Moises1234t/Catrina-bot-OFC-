@@ -108,7 +108,7 @@ npm start
 <div align="center">
   <h1 align="center">Editor y Propietario de la Bot</h1>
 
-<a href="https://github.com/moises1234"><img src="https://i.ibb.co/MDHkhRZ/file.jpg" width="300" height="300" alt="ᘛCriss"/></a>
+<a href="https://github.com/moises1234t"><img src="https://i.ibb.co/MDHkhRZ/file.jpg" width="300" height="300" alt="Moises"/></a>
 
 ` Catrina - OFC / TEAM catrinA OFC _ …⁠Moises
 `
