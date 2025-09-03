@@ -1,4 +1,4 @@
-<h1 align="center">‧ 【 ᴛᴇᴀᴍ ᴋᴏʀᴜᴅᴀ ᴏꜰᴄ 】 ‧
+<h1 align="center">‧ 【 catrina bot ᴏꜰᴄ 】 ‧
 </p>
 <p>
         <img src= "https://telegra.ph/file/aff4f06b811e3f98f1b56.jpg">
@@ -80,7 +80,7 @@ npm start
 
 - Si el Bot tiene algún contactame 
 
-* <a href="https://wa.me/51913776697"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://wa.me/593990089935"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ---------
 
@@ -89,7 +89,7 @@ npm start
 
 - Si quieres probar la Bot antes de instalar
 
-* <a href="https://chat.whatsapp.com/HjYvHMNz0s1EwBl8sHs2Bj"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://chat.whatsapp.com/HDgzsMQOIwD2KqTCP7swwA?mode=ems_copy_c"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ---------
 
